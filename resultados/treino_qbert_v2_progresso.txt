@@ -1,0 +1,6 @@
+Treino do NanoJev no Q*bert
+Passo 1000 de 1000 (100%)
+Tempo decorrido: 664 min | falta ~0 min (término ~18:26)
+Perda do último passo: 0.8719 | memória pico 7.61 GB
+Placa: 66 C após o passo | pausas para esfriar até agora: 97 min (pausa se passar de 75 C, volta em 68 C)
+Última avaliação (passo 1000): concorda com o professor em 55% no Q*bert | 79% nos jogos originais

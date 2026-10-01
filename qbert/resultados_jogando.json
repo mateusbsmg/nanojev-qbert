@@ -1,0 +1,105 @@
+[
+ {
+  "nome": "original",
+  "quando": "2026-09-24 03:00",
+  "por_nivel": {
+   "nivel_1": {
+    "modelo": {
+     "etapas_completas": "0/20",
+     "vidas_restantes_media": 0.0,
+     "cubos_faltando_media": 24.7,
+     "passos_media": 33.5,
+     "esperas_media": 29.4
+    },
+    "robô": {
+     "etapas_completas": "20/20",
+     "vidas_restantes_media": 2.35,
+     "cubos_faltando_media": 0.0,
+     "passos_media": 43.7,
+     "esperas_media": 2.0
+    },
+    "professor": {
+     "etapas_completas": "20/20",
+     "vidas_restantes_media": 2.35,
+     "cubos_faltando_media": 0.0,
+     "passos_media": 45.9,
+     "esperas_media": 3.1
+    }
+   },
+   "nivel_2": {
+    "modelo": {
+     "etapas_completas": "0/20",
+     "vidas_restantes_media": 0.0,
+     "cubos_faltando_media": 27.6,
+     "passos_media": 30.7,
+     "esperas_media": 27.8
+    },
+    "robô": {
+     "etapas_completas": "10/20",
+     "vidas_restantes_media": 0.7,
+     "cubos_faltando_media": 3.0,
+     "passos_media": 90.8,
+     "esperas_media": 2.5
+    },
+    "professor": {
+     "etapas_completas": "16/20",
+     "vidas_restantes_media": 1.55,
+     "cubos_faltando_media": 1.0,
+     "passos_media": 133.3,
+     "esperas_media": 6.3
+    }
+   }
+  },
+  "segundos": 545
+ },
+ {
+  "nome": "treinado",
+  "quando": "2026-09-24 03:10",
+  "por_nivel": {
+   "nivel_1": {
+    "modelo": {
+     "etapas_completas": "0/20",
+     "vidas_restantes_media": 0.0,
+     "cubos_faltando_media": 7.5,
+     "passos_media": 63.0,
+     "esperas_media": 5.7
+    }
+   },
+   "nivel_2": {
+    "modelo": {
+     "etapas_completas": "0/20",
+     "vidas_restantes_media": 0.0,
+     "cubos_faltando_media": 16.0,
+     "passos_media": 70.8,
+     "esperas_media": 5.5
+    }
+   }
+  },
+  "segundos": 1147
+ },
+ {
+  "nome": "v2",
+  "quando": "2026-09-24 18:28",
+  "por_nivel": {
+   "nivel_1": {
+    "modelo": {
+     "etapas_completas": "2/20",
+     "vidas_restantes_media": 0.1,
+     "cubos_faltando_media": 3.8,
+     "passos_media": 80.8,
+     "esperas_media": 3.0
+    }
+   },
+   "nivel_2": {
+    "modelo": {
+     "etapas_completas": "0/20",
+     "vidas_restantes_media": 0.0,
+     "cubos_faltando_media": 12.2,
+     "passos_media": 85.4,
+     "esperas_media": 1.4
+    }
+   }
+  },
+  "segundos": 1435
+ }
+]

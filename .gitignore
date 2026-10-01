@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# modelos, checkpoints e pesos treinados (grandes demais para o GitHub)
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.ckpt
+runs/
+checkpoints/
+
+# temporários
+*.tmp
+*.webm
+
+# capturas do jogo original (direitos dos autores)
+qbert/referencias_odyssey/

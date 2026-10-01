@@ -1,0 +1,145 @@
+[
+ {
+  "passo": 0,
+  "qbert": {
+   "ce": 1.213804490459394,
+   "concorda_com_professor": 0.38,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.7648104132243918,
+   "concorda_com_professor": 0.7733333333333333,
+   "exemplos": 150
+  }
+ },
+ {
+  "passo": 100,
+  "qbert": {
+   "ce": 1.2917426912143262,
+   "concorda_com_professor": 0.38,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.7657309959558835,
+   "concorda_com_professor": 0.7866666666666666,
+   "exemplos": 150
+  }
+ },
+ {
+  "passo": 200,
+  "qbert": {
+   "ce": 1.196167079132489,
+   "concorda_com_professor": 0.4266666666666667,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.763741037218798,
+   "concorda_com_professor": 0.7933333333333333,
+   "exemplos": 150
+  }
+ },
+ {
+  "passo": 300,
+  "qbert": {
+   "ce": 1.1076408363278694,
+   "concorda_com_professor": 0.47333333333333333,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.7696292490156541,
+   "concorda_com_professor": 0.76,
+   "exemplos": 150
+  }
+ },
+ {
+  "passo": 400,
+  "qbert": {
+   "ce": 1.1473357049567325,
+   "concorda_com_professor": 0.5,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.7625610672495068,
+   "concorda_com_professor": 0.8,
+   "exemplos": 150
+  }
+ },
+ {
+  "passo": 500,
+  "qbert": {
+   "ce": 1.1564600610003213,
+   "concorda_com_professor": 0.52,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.7683149667270933,
+   "concorda_com_professor": 0.7933333333333333,
+   "exemplos": 150
+  }
+ },
+ {
+  "passo": 600,
+  "qbert": {
+   "ce": 1.0980938261371853,
+   "concorda_com_professor": 0.5,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.7607568520385958,
+   "concorda_com_professor": 0.82,
+   "exemplos": 150
+  }
+ },
+ {
+  "passo": 700,
+  "qbert": {
+   "ce": 1.0956970595056603,
+   "concorda_com_professor": 0.5,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.7620553213873553,
+   "concorda_com_professor": 0.7933333333333333,
+   "exemplos": 150
+  }
+ },
+ {
+  "passo": 800,
+  "qbert": {
+   "ce": 1.1864870055131287,
+   "concorda_com_professor": 0.48,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.7613119573203688,
+   "concorda_com_professor": 0.7933333333333333,
+   "exemplos": 150
+  }
+ },
+ {
+  "passo": 900,
+  "qbert": {
+   "ce": 1.049446971583489,
+   "concorda_com_professor": 0.48,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.7616132526857913,
+   "concorda_com_professor": 0.78,
+   "exemplos": 150
+  }
+ },
+ {
+  "passo": 1000,
+  "qbert": {
+   "ce": 1.0535904139443921,
+   "concorda_com_professor": 0.5533333333333333,
+   "exemplos": 150
+  },
+  "originais": {
+   "ce": 0.7579533510409057,
+   "concorda_com_professor": 0.7933333333333333,
+   "exemplos": 150
+  }
+ }
+]
