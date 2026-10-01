@@ -80,7 +80,7 @@ perdidas). Snake e Labirinto continuaram funcionando depois do treino (3/3 e 4/5
 
 ![Comparação com o Laya e o professor](imagens/comparacao.png)
 
-A comparação com outra IA (Laya), treinada com **os mesmos 30 mil exemplos**, está no repositório **laya-qbert**:
+A comparação com outra IA (Laya), treinada com **os mesmos 30 mil exemplos**, está no repositório [**laya-qbert**](https://github.com/mateusbsmg/laya-qbert):
 com um texto de situação enxuto (~190 tokens em vez de ~4.300), ela chegou a 20/20 no nível 1.
 
 ## O que tem aqui
@@ -121,6 +121,15 @@ Q\*bert é marca da Gottlieb/Sony; a versão de referência é a do **Philips Od
 Este repositório traz **uma recriação própria** para pesquisa, feita a partir do manual brasileiro e da observação
 de partidas gravadas; **não contém** a ROM, imagens ou código do jogo original (as capturas de referência usadas
 durante o desenvolvimento ficaram de fora).
+
+## A série
+
+Quatro experiências com IAs de decisão rodando numa placa de vídeo doméstica:
+
+1. [**NanoJev ao vivo**](https://github.com/mateusbsmg/nanojev-snake-labirinto-ao-vivo) — Snake e Labirinto jogados em tempo real por um modelo de decisão local.
+2. **NanoJev aprende Q\*bert** (este repositório) — um professor em Python, 30 mil exemplos e ~15 h de treino numa RTX 3060.
+3. [**Laya aprende Q\*bert**](https://github.com/mateusbsmg/laya-qbert) — a mesma tarefa com outra IA: 20/20 fases no nível 1, com 1 h de treino.
+4. [**C. elegans: valência e evolução**](https://github.com/mateusbsmg/c-elegans-valencia) — 302 neurônios, dor, prazer, fome, aprendizado por reforço e algoritmo genético ao vivo.
 
 ## Créditos e licença
 
